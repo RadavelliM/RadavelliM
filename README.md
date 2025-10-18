@@ -1,4 +1,4 @@
-<h1 align="center">Bem vindo!<br><br>Estudante de Engenharia de Software<br><br>Eu tenho conhecimento com as seguintes linguagens e frameworks/ferramentas:</h1>
+<h1 align="center">Bem vindo (a)!<br><br>Estudante de Engenharia de Software<br><br>Eu tenho conhecimento com as seguintes linguagens e frameworks/ferramentas:</h1>
 
 ###
 
