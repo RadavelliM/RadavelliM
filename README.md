@@ -7,6 +7,25 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 ###
 
 <div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gradua%C3%A7%C3%A3o&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p align="left">🎓 Formação Acadêmica<br><br>Bacharelado em Engenharia de Software<br>📍 Univille  <br>📅 Início: 2025<br>📅 Previsão de conclusão: 2029  <br>🎯 Foco em arquitetura de software, estruturas de dados, banco de dados e desenvolvimento web.</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Cursos%20e%20Certifica%C3%A7%C3%B5es&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p align="left">📚 Cursos & Certificações Relevantes<br><br>- 🧠 JavaScript & TypeScript Avançado — Udemy  <br>  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.<br><br>- ⚛️ ReactJS — Udemy <br>  Desenvolvimento de aplicações SPA com Hooks, Context API e boas práticas de componentização.<br><br>- 🔧 Git & GitHub - Udemy<br>   Controle de versão, branchs, versionamento, rebase, servidores e commits.<br><br>- 🐳 Docker para Desenvolvedores  <br>  Containerização de aplicações Node.js e configuração de ambientes isolados.</p>
+
+
+<div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=60&fontColor=8FF4FF&fontAlign=50&fontAlignY=40&stroke=-&desc=Passe%20o%20mouse%20em%20cima%20dos%20icones%20para%20ver%20os%20nomes.&descSize=30&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
 </div>
 
