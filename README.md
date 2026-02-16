@@ -106,6 +106,8 @@ Sou estudante de Engenharia de Software focado em construir soluções eficiente
   </a>
 </div>
 
+<p align="left">1: Projeto em Python com Flask e SQL Server para um gerenciamento de restaurante.<br>Link: https://github.com/RadavelliM/restarurante<br><br><br>2: Projeto em JavaScript para gerenciamento de clientes e/ou contatos, utilizando de arquitetura MVC e banco de dados MongoDB em nuvem.<br>Link: https://github.com/RadavelliM/projeto-agenda<br><br><br>3: Desenvolvimento de uma API RESTfull de escola, utilizando banco de dados MySQL em um servidor GCP com Docker, para utilização em um frontend com React, utilizando de medidas de segurança como CORS, HelmetJS para prevenção de CSRF, e autenticação JWT.<br>Link: https://github.com/RadavelliM/api-rest-school-react<br><br><br>4: Aplicação em ReactJS, consumindo a API RESTful desenvolvida, usando funcionalidades modernas do React, tais como Router e Hooks.<br>Link: https://github.com/RadavelliM/Projeto-Escola</p>
+
 ###
 
 
