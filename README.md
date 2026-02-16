@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media1.tenor.com/m/4MALNxOjDYEAAAAC/pacman-video-game.gif](https://www.deviantart.com/oxooxoxoxoxoxox/art/Mario-Running-GIF-1085307703)"  />
+<img align="right" height="150" src="https://media1.tenor.com/m/4MALNxOjDYEAAAAC/pacman-video-game.gif"  />
 
 ###
 
