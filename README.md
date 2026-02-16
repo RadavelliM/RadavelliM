@@ -108,4 +108,8 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
+</div>
+
 ###
