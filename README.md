@@ -31,7 +31,7 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/4MALNxOjDYEAAAAC/pacman-video-game.gif"  />
+
 
 ###
 
