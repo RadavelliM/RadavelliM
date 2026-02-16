@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=70&fontColor=8FF4FF&fontAlign=50&fontAlignY=65&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=60&fontColor=8FF4FF&fontAlign=50&fontAlignY=40&stroke=-&desc=Passe%20o%20mouse%20em%20cima%20dos%20icones%20para%20ver%20os%20nomes.&descSize=30&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
 </div>
 
 ###
