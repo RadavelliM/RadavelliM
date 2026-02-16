@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software FullStack
 
-Sou estudante de Engenharia de Software focado em construir soluções eficientes e escaláveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos explorando o ecossistema do desenvolvimento Web e BackEnd, juntamente ao aprimoramento constante da minha stack técnica.</h2>
+Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code, SOLID e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.</h2>
 
 ###
 
