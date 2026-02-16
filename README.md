@@ -1,4 +1,8 @@
-<h2 align="center">Bem vindo (a)!<br><br>Sou estudante de Engenharia de Software focado em construir soluções eficientes e escaláveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.</h2>
+<h2 align="center">Bem vindo (a)!
+
+Desenvolvedor de Software FullStack
+
+Sou estudante de Engenharia de Software focado em construir soluções eficientes e escaláveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos explorando o ecossistema do desenvolvimento Web e BackEnd, juntamente ao aprimoramento constante da minha stack técnica.</h2>
 
 ###
 
@@ -104,9 +108,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
-</div>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
