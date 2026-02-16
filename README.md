@@ -1,4 +1,10 @@
-<h2 align="center">Bem vindo (a)!<br><br>Estudante de Engenharia de Software<br><br>Eu tenho conhecimento com as seguintes linguagens e frameworks/ferramentas:</h2>
+<h2 align="center">Bem vindo (a)!<br><br>Sou estudante de Engenharia de Software focado em construir soluções eficientes e escaláveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.</h2>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=70&fontColor=8FF4FF&fontAlign=50&fontAlignY=65&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
@@ -87,7 +93,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -99,7 +105,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20confira%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
 ###
