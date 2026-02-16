@@ -74,7 +74,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20confira%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
 
 ###
