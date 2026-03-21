@@ -116,6 +116,12 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
+</div>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -124,6 +130,8 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
 
 
 ###
