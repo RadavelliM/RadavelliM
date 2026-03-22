@@ -123,15 +123,16 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
   </a>
-  <a href="henriqueradavellimachado@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
   </a>
 
-<a href="https://radavelli.dev.br/" target="_blank">
-    <img src="[[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://png.pngtree.com/png-vector/20190307/ourmid/pngtree-vector-programming-icon-png-image_757435.jpg)](https://sergeisolod.github.io/)" width="52" height="40" alt="gmail logo"  />
+<a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
+    <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" alt="gmail logo" title="Portfólio Pessoal"  />
+
   </a>
 </div>
 
