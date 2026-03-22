@@ -146,7 +146,7 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20os%20reposit%C3%B3rios%20abaixo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=E%20veja%20meus%20projetos:&descSize=30&descAlign=50&descAlignY=90&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20os%20reposit%C3%B3rios%20abaixo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=E%20veja%20meus%20projetos:&descSize=30&descAlign=50&descAlignY=85&color=gradient"  />
 </div>
 
 <br>
