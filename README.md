@@ -119,7 +119,7 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&color=gradient"  />
 </div>
 
 ###
@@ -146,7 +146,7 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Veja%20os%20reposit%C3%B3rios&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&desc=E%20verifique%20meus%20projetos!&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20os%20reposit%C3%B3rios%20abaixo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=E%20veja%20meus%20projetos:&descSize=30&descAlign=50&descAlignY=90&color=gradient"  />
 </div>
 
 <br>
