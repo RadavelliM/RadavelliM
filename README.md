@@ -129,6 +129,10 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
   <a href="henriqueradavellimachado@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+
+<a href="https://radavelli.dev.br/" target="_blank">
+    <img src="[https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg](https://png.pngtree.com/png-vector/20190307/ourmid/pngtree-vector-programming-icon-png-image_757435.jpg)" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
