@@ -35,85 +35,132 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
-<div align="center">
-  <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="37" alt="html5 logo"  />
-  <img width="12" />
+<table align="center" border="1">
 
-  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="37" alt="css3 logo"  />
-  <img width="12" />
+<tr>
+  <td align="center" colspan="6">
+      <h3>Frontend</h3>
+  </td>
+</tr>
+  
+<tr>
+    
+<td align="center">
+        <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50"/> 
+        
+<p>REACT</p>
+</td>
 
-  <img title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="37" alt="bootstrap logo"  />
-  <img width="12" />
+<td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" width="50"/>
+        <p>JavaScript</p>
+</td>
 
-  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="12" />
+<td align="center">
+        <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" width="50"/>
+        <p>HTML</p>
+</td>
 
-  <img title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="37" alt="express logo"  />
-  <img width="12" />
+<td align="center">
+        <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" width="50"/>
+        <p>CSS</p>
+</td>
 
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="37" alt="nodejs logo"  />
-  <img width="12" />
+<td align="center">
+        <img src="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="50"/>
+        <p>Bootstrap</p>
+</td>
 
-  <img title="npm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="37" alt="npm logo"  />
-  <img width="12" />
 
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="37" alt="react logo"  />
-  <img width="12" />
+<td align="center">
+        <img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" width="50"/>
+        <p>Webpack</p>
+</td>
 
-  <img title="Redux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="37" alt="redux logo"  />
-  <img width="12" />
+</tr>
 
-  <img title="Remix" src="https://cdn.simpleicons.org/remix/000000" height="37" alt="remix logo"  />
-  <img width="12" />
+<tr>
+  <td align="center" colspan="6">
+      <h3>Backend</h3>
+  </td>
+</tr>
+  
+<tr>
 
-  <img title="ESLint" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="37" alt="eslint logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="50"/>
+          <p>Node.js</p>
+  </td>
 
-  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="37" alt="python logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnDneBGnQL7E9hZDwztRO1GfQcCj1FqRrhBw&s" width="50"/>
+          <p>Express.js</p>
+  </td>
 
-  <img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="37" alt="flask logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://sequelize.org/img/logo.svg" alt="" style="width: 50px;">
+          <p>Sequelize ORM</p>
+  </td>
 
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="37" alt="mysql logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://ih1.redbubble.net/image.438912065.6243/raf,360x360,075,t,fafafa:ca443f4786.jpg" style="width: 50px;">
+          <p>Mongoose ODM</p>
+  </td>
 
-  <img title="SQL SERVER" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="37" alt="microsoftsqlserver logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50"/>
+          <p>Python</p>
+  </td>
 
-  <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="37" alt="mongodb logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://www.jumpingrivers.com/blog/python-api-deployment-rstudio-flask/flask.png" width="50"/>
+          <p>Flask</p>
+  </td>
 
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="37" alt="git logo"  />
-  <img width="12" />
 
-  <img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="37" alt="github logo"  />
-  <img width="12" />
+</tr>
 
-  <img title="SSH" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="37" alt="ssh logo"  />
-  <img width="12" />
+<tr>
+  <td align="center" colspan="6">
+      <h3>Databases & Deploy</h3>
+  </td>
+</tr>
 
-  <img title="NGINX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="37" alt="nginx logo"  />
-  <img width="12" />
+<tr>
 
-  <img title="GCP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="37" alt="googlecloud logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://camo.githubusercontent.com/166d7510eddc438981693781e5252ddcf99f0445f80b91b7986f2f7f122f9892/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667" width="50"/>
+          <p>MySQL</p>
+  </td>
 
-  <img title="Postman" src="https://cdn.simpleicons.org/postman/FF6C37" height="37" alt="postman logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://img.icons8.com/color/1200/microsoft-sql-server.jpg" width="50"/>
+          <p>SQL Server</p>
+  </td>
 
-  <img title="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="37" alt="insomnia logo"  />
-  <img width="12" />
+  <td align="center">
+          <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462" width="50"/>
+          <p>MongoDB</p>
+  </td>
+  
+  <td align="center">
+        <img src="https://img.icons8.com/color/512/google-cloud.png" width="70"/>
+        <p>GCP</p>
+  </td>
 
-  <img title="VScode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="37" alt="vscode logo"  />
-  <img width="12" />
+  <td align="center">
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/>
+        <p>Git</p>
+  </td>
 
-  <img title="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="37" alt="linkedin logo"  />
-  <img width="12" />
+  <td align="center">
+        <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="50"/>
+        <p>GitHub</p>
+  </td>
+</tr>
 
-  <img title="Figma" src="https://cdn.simpleicons.org/figma/F24E1E" height="37" alt="figma logo"  />
-</div>
 
+</table>
 <br><br>
 
 ###
