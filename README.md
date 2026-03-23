@@ -22,7 +22,7 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
-<p align="left">📚 Cursos & Certificações Relevantes<br><br>- 🧠 JavaScript< React & TypeScript Avançado — Udemy  <br>  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.<br><br>- 🔧 Git & GitHub - Udemy<br>   Controle de versão, branchs, versionamento, rebase, servidores e commits.<br><br></p>
+<p align="left">📚 Cursos & Certificações Relevantes<br><br>- 🧠 JavaScript, React & TypeScript Avançado — Udemy  <br>  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.<br><br>- 🔧 Git & GitHub - Udemy<br>   Controle de versão, branchs, versionamento, rebase, servidores e commits.<br><br></p>
 
 
 <div>
