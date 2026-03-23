@@ -1,4 +1,4 @@
-# align="center">Bem vindo (a)!
+<h2 align="center">Bem vindo (a)!
 
 Desenvolvedor de Software FullStack
 
