@@ -1,8 +1,12 @@
-<h2 align="center">Bem vindo (a)!
+<h2 align="center">
 
-Desenvolvedor de Software FullStack
+  Bem vindo (a)!
 
-Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.</h2>
+  Desenvolvedor de Software FullStack
+
+  Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.
+
+</h2>
 
 ###
 
@@ -12,7 +16,19 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
-<p align="left">🎓 Formação Acadêmica<br><br>Bacharelado em Engenharia de Software<br>📍 Univille  <br>📅 Início: 2025<br>📅 Previsão de conclusão: 2029  <br>🎯 Foco em arquitetura de software, estruturas de dados, banco de dados e desenvolvimento web.</p>
+<p align="left">
+  🎓 Formação Acadêmica
+  <br><br>
+  Bacharelado em Engenharia de Software
+  <br>
+  📍 Univille
+  <br>
+  📅 Início: 2025
+  <br>
+  📅 Previsão de conclusão: 2029
+  <br>
+  🎯 Foco em arquitetura de software, estruturas de dados, banco de dados e desenvolvimento web.
+</p>
 
 ###
 
@@ -22,10 +38,25 @@ Sou estudante de Engenharia de Software com foco em arquitetura de aplicações 
 
 ###
 
-<p align="left">📚 Cursos & Certificações Relevantes<br><br>- 🧠 JavaScript, React & TypeScript Avançado — Udemy  <br>  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.<br><br>- 🔧 Git & GitHub - Udemy<br>   Controle de versão, branchs, versionamento, rebase, servidores e commits. <br>
-Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
-<br><br></p>
+<p align="left">
 
+  📚 Cursos & Certificações Relevantes
+  <br><br>
+
+  * 🧠 JavaScript, React & TypeScript Avançado — Udemy  
+  <br>
+  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.
+  <br><br>
+
+  * 🔧 Git & GitHub - Udemy
+  <br>
+  Controle de versão, branchs, versionamento, rebase, servidores e commits. 
+  <br>
+  Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
+
+  <br><br>
+
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=70&fontColor=00ffff&fontAlign=50&fontAlignY=60&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -33,7 +64,6 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
 
 ###
 
-###
 
 <table align="center" border="1">
 
@@ -47,7 +77,6 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
     
 <td align="center">
         <img src="https://camo.githubusercontent.com/afdf5a3b933086604f6acf89a8fa2a321aaa6d912919c573f87545587a59333f/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" width="50"/> 
-        
 <p>React</p>
 </td>
 
@@ -70,7 +99,6 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
         <img src="https://camo.githubusercontent.com/6acfbb2f1cad6ae639f9054c1087275eb74dfa65e9bae9ff419790bb56b3754b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d626f6f747374726170" width="50"/>
         <p>Bootstrap</p>
 </td>
-
 
 <td align="center">
         <img src="https://camo.githubusercontent.com/971dc0f889a81abf890b811ea97765459c01e50470aa92927fc63109867dc35e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f7765627061636b2d69636f6e2e737667" width="50"/>
@@ -117,7 +145,6 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
           <p>Flask</p>
   </td>
 
-
 </tr>
 
 <tr>
@@ -159,8 +186,8 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
   </td>
 </tr>
 
-
 </table>
+
 <br><br>
 
 ###
@@ -181,16 +208,13 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
 
 <a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
     <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" alt="gmail logo" title="Portfólio Pessoal"  />
-
   </a>
 </div>
 
-###
-
 
 ###
+
 <br><br>
-
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20os%20reposit%C3%B3rios%20abaixo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=E%20veja%20meus%20projetos:&descSize=30&descAlign=50&descAlignY=85&color=gradient"  />
@@ -198,11 +222,24 @@ Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4
 
 <br>
 
-<p align="left">1: Projeto em Python com Flask e SQL Server para um gerenciamento de restaurante.<br>Link: https://github.com/RadavelliM/restarurante<br><br><br>2: Projeto em JavaScript para gerenciamento de clientes e/ou contatos, utilizando de arquitetura MVC e banco de dados MongoDB em nuvem.<br>Link: https://github.com/RadavelliM/projeto-agenda<br><br><br>3: Desenvolvimento de uma API RESTfull de escola, utilizando banco de dados MySQL em um servidor GCP com Docker, PM2, e NGINX, para utilização em um frontend com React, utilizando de medidas de segurança como CORS, HelmetJS para prevenção de CSRF, e autenticação JWT.<br>Link: https://github.com/RadavelliM/api-rest-school-react<br><br><br>4: Aplicação em ReactJS, consumindo a API RESTful desenvolvida, usando funcionalidades modernas do React, tais como Router e Hooks.<br>Link: https://github.com/RadavelliM/Projeto-Escola</p>
+<p align="left">
+
+  1: Projeto em Python com Flask e SQL Server para um gerenciamento de restaurante.<br>Link: https://github.com/RadavelliM/restarurante
+
+  <br><br><br>
+
+  2: Projeto em JavaScript para gerenciamento de clientes e/ou contatos, utilizando de arquitetura MVC e banco de dados MongoDB em nuvem.<br>Link: https://github.com/RadavelliM/projeto-agenda
+
+  <br><br><br>
+
+  3: Desenvolvimento de uma API RESTfull de escola, utilizando banco de dados MySQL em um servidor GCP com Docker, PM2, e NGINX, para utilização em um frontend com React, utilizando de medidas de segurança como CORS, HelmetJS para prevenção de CSRF, e autenticação JWT.<br>Link: https://github.com/RadavelliM/api-rest-school-react
+
+  <br><br><br>
+
+  4: Aplicação em ReactJS, consumindo a API RESTful desenvolvida, usando funcionalidades modernas do React, tais como Router e Hooks.<br>Link: https://github.com/RadavelliM/Projeto-Escola
+
+</p>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
-
-
-
