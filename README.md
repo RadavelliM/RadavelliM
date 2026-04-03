@@ -43,14 +43,19 @@
   📚 Cursos & Certificações Relevantes
   <br><br>
 
-  * 🧠 JavaScript, React & TypeScript Avançado — Udemy  
-  <br>
-  Aplicação prática em manipulação de DOM, async/await, consumo e criação de APIs REST.
+  ⚛ JavaScript, React & TypeScript Avançado — Udemy  
+   * Manipulação de DOM
+   * async/await
+   * Criação de APIs REST.
   <br><br>
 
-  * 🔧 Git & GitHub - Udemy
+  🔧 Git & GitHub - Udemy
   <br>
-  Controle de versão, branchs, versionamento, rebase, servidores e commits. 
+  * Controle de versão
+  * Versionamento
+  * Branchs
+  * Rebase
+  * Commits. 
   <br>
   Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
 
@@ -267,34 +272,3 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
-
-
-<style>
-
-  td img {
-    transition: 500ms;
-  }
-
-  td:hover img {
-    transform: scale(1.2);
-  }
-  
-  td:hover p {
-    color: aqua;
-  }
-  
-  h1 {
-    transition: 500ms;
-  }
-  h1:hover {
-    transform: translateY(-10px);
-    font-size: 35px;
-  }
-  .contato img {
-    transition: 500ms;
-  }
-
-  .contato img:hover {
-    transform: scale(1.2);
-  }
-</style>
