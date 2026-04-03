@@ -198,7 +198,7 @@
 
 ###
 
-<div align="center">
+<div class="contato" align="center">
   <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
   </a>
@@ -222,7 +222,8 @@
 
 <br>
 
-<h1 align="center">API REST - Universidade</h1>
+<div class="projetos">
+  <h1 align="center">API REST - Universidade</h1>
    Desenvolvimento de uma API RESTful de uma universidade em Node.js com Express, utilizando banco de dados MySQL juntamente com a ORM Sequelize para abstração e integridade dos dados. Deploy em um servidor Google Cloud Platform (GCP) com containerização Docker, gerenciamento de ambiente Node PM2, e NGINX para proxy reversa. A aplicação desenvolvida para consumo em um frontend com React conta com medidas de segurança como CORS e HelmetJS para prevenção de CSRF, além de autenticação JWT.
 
   * Link do repositório: https://github.com/RadavelliM/api-rest-college
@@ -260,8 +261,40 @@
 
   * Link do repositório: https://github.com/RadavelliM/Projeto-Escola
   <br>
+</div>
 
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
 </div>
+
+
+<style>
+
+  td img {
+    transition: 500ms;
+  }
+
+  td:hover img {
+    transform: scale(1.2);
+  }
+  
+  td:hover p {
+    color: aqua;
+  }
+  
+  h1 {
+    transition: 500ms;
+  }
+  h1:hover {
+    transform: translateY(-10px);
+    font-size: 35px;
+  }
+  .contato img {
+    transition: 500ms;
+  }
+
+  .contato img:hover {
+    transform: scale(1.2);
+  }
+</style>
