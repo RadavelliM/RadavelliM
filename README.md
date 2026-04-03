@@ -226,30 +226,32 @@
 
   1. Desenvolvimento de uma API RESTful de uma universidade em Node.js com Express, utilizando banco de dados MySQL juntamente com a ORM Sequelize para abstração e integridade dos dados. Deploy em um servidor Google Cloud Platform (GCP) com containerização Docker, gerenciamento de ambiente Node PM2, e NGINX para proxy reversa. A aplicação desenvolvida para consumo em um frontend com React conta com medidas de segurança como CORS e HelmetJS para prevenção de CSRF, além de autenticação JWT.
   <br>
-  Link do repositório: https://github.com/RadavelliM/api-rest-college
+  * Link do repositório: https://github.com/RadavelliM/api-rest-college
+
+  <br><br><br>
 
   2. Portfólio pessoal profissional desenvolvido com React + Vite. A aplicação usa tecnologias modernas como React Hooks, juntamente com React Router para tratamento de páginas inexistentes. O portfólio utiliza Styled-components + CSS modules para estilização, além de animações e transições suaves com a biblioteca framer-motion. O projeto em React conta com a tecnologia WebGl, responsável por renderizar animações tridimensionais no navegador através da linguagem GLSL, escrita em C, sendo usada para criar uma Hero Section animada interativa.
   <br>
-  Link do website: http://radavelli.dev.br
-  Link do repositório: https://github.com/RadavelliM/Portfolio-pessoal
+  * Link do website: http://radavelli.dev.br
+  * Link do repositório: https://github.com/RadavelliM/Portfolio-pessoal
 
   <br><br><br>
 
   3. Projeto em Node.js e Express para gerenciamento de clientes, utilizando de arquitetura monolítica MVC e banco de dados não-relacional (NoSQL) MongoDB, em uma cluster (AWS). A aplicação usa a ODM Mongoose para integridade e abstração de dados, além de HelmetJS para prevenção de ataques CSRF. Deploy realizado no Google Cloud Platform (GCP) com containerização Docker, além de PM2 para gerenciamento de ambiente Node, e NGINX para proxy reversa.
   <br>
-  Link do repositório: https://github.com/RadavelliM/gerenciamento-clientes
+  * Link do repositório: https://github.com/RadavelliM/gerenciamento-clientes
 
   <br><br><br>
 
   4. Projeto em Python para gerenciamento de um restaurante, com arquitetura monolítica MVC, usando o framework web Flask, juntamente com banco de dados relacional SQL Server.
   <br>
-  Link do repositório: https://github.com/RadavelliM/restarurante
+  * Link do repositório: https://github.com/RadavelliM/restarurante
 
   <br><br><br>
 
   5. Aplicação em ReactJS, consumindo a API RESTful desenvolvida, usando funcionalidades modernas do React, tais como Router e Hooks.
   <br>
-  Link do repositório: https://github.com/RadavelliM/Projeto-Escola
+  * Link do repositório: https://github.com/RadavelliM/Projeto-Escola
 
 </p>
 
