@@ -57,7 +57,7 @@
   * Rebase
   * Commits. 
   <br>
-  Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
+    Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
 
   <br><br>
 
@@ -256,7 +256,7 @@
 <h1 align="center">🐍 Projeto Restaurante Python</h1>
   Projeto em Python para gerenciamento de um restaurante, com arquitetura monolítica MVC, usando o framework web Flask, juntamente com banco de dados relacional SQL Server.
 
-  * Link do repositório: https://github.com/RadavelliM/restarurante
+  * Link do repositório: https://github.com/RadavelliM/gerenciamento-restaurante
   <br>
 
   <br><br>
