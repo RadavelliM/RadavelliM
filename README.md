@@ -6,11 +6,13 @@
 
   Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.
 
+  <p align="center" style="position: relative; margin-top: 50px;">
+    📍 Joinville, SC - Brasil
+  </p>
+
 </h2>
 
-<h2 align="center">
-  📍 Joinville, SC - Brasil
-</h2>
+
 
 ###
 
