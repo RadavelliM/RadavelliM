@@ -8,6 +8,10 @@
 
 </h2>
 
+<h2 align="center">
+  📍 Joinville, SC - Brasil
+</h2>
+
 ###
 
 <div>
