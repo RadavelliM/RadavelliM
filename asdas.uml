@@ -1,0 +1,81 @@
+class Cliente {
+        -nome: String
+        -cpf: String
+        -telefone: String
+        -cnh: String
+        --
+        +Cliente(nome: String, cpf: String, telefone: String, cnh: String)
+        +getNome(): String
+        +getCpf(): String
+        +getTelefone(): String
+        +getCnh(): String
+        +setNome(nome: String): void
+        +setCpf(cpf: String): void
+        +setTelefone(telefone: String): void
+        +setCnh(cnh: String): void
+    }
+
+    class Veiculo {
+        -placa: String
+        -modelo: String
+        -marca: String
+        -ano: int
+        -diaria: double
+        -status: String
+        --
+        +Veiculo(placa: String, modelo: String, marca: String, ano: int, diaria: double, status: String)
+        +getPlaca(): String
+        +getModelo(): String
+        +getMarca(): String
+        +getAno(): int
+        +getDiaria(): double
+        +getStatus(): String
+        +setPlaca(placa: String): void
+        +setModelo(modelo: String): void
+        +setMarca(marca: String): void
+        +setAno(ano: int): void
+        +setDiaria(diaria: double): void
+        +setStatus(status: String): void
+    }
+
+    class Funcionario {
+        -nome: String
+        -cargo: String
+        --
+        +Funcionario(nome: String, cargo: String)
+        +getNome(): String
+        +getCargo(): String
+        +setNome(nome: String): void
+        +setCargo(cargo: String): void
+    }
+
+    class Locacao {
+        -dataInicio: Date
+        -dataFim: Date
+        --
+        +Locacao(dataInicio: Date, dataFim: Date, cliente: Cliente, veiculo: Veiculo, funcionario: Funcionario)
+        +getDataInicio(): Date
+        +getDataFim(): Date
+        +setDataInicio(dataInicio: Date): void
+        +setDataFim(dataFim: Date): void
+        +calcularValorTotal(): double
+    }
+
+    class Pagamento {
+        -valor: double
+        -tipo: String
+        -data: Date
+        --
+        +Pagamento(valor: double, tipo: String, data: Date)
+        +getValor(): double
+        +getTipo(): String
+        +getData(): Date
+        +setValor(valor: double): void
+        +setTipo(tipo: String): void
+        +setData(data: Date): void
+    }
+
+    Locacao "0..*" --> "1" Cliente : realiza
+    Locacao "0..*" --> "1" Veiculo : aluga
+    Locacao "0..*" --> "1" Funcionario : registra
+    Locacao "1" *-- "1..*" Pagamento : possui

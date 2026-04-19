@@ -209,19 +209,37 @@
 
 ###
 
-<div class="contato" align="center">
-  <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
-  </a>
-  <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
-  </a>
+<table align="center">
 
-<a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" alt="gmail logo" title="Portfólio Pessoal"  />
-  </a>
-</div>
+  <thead>
+    <tr>
+      <th>Linkedin</th>
+      <th>Portfólio</th>
+      <th>Gmail</th>
+    </tr>
+  </thead>
 
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" title="Portfólio Pessoal"  />
+        </a>
+      </td>
+      <td>
+        <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
 
 ###
 
