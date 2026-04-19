@@ -216,6 +216,7 @@
       <th>Linkedin</th>
       <th>Portfólio</th>
       <th>Gmail</th>
+      <th>Currículo</th>
     </tr>
   </thead>
 
@@ -235,6 +236,15 @@
         <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
         </a>
+      </td>
+      <td>
+            <a
+                className="downloadBtn"
+                href="/Profile.pdf"
+                download="Curriculo.pdf"
+            >
+                Baixar Currículo
+            </a>
       </td>
     </tr>
   </tbody>
