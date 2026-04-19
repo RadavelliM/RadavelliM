@@ -216,12 +216,12 @@
       <th>Linkedin</th>
       <th>Portfólio</th>
       <th>Gmail</th>
-      <th>Currículo</th>
+      <th>Visualizar Currículo</th>
     </tr>
   </thead>
 
   <tbody>
-    <tr>
+    <tr align="center">
       <td>
         <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
           <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
@@ -238,13 +238,9 @@
         </a>
       </td>
       <td>
-            <a
-                className="downloadBtn"
-                href="/Profile.pdf"
-                download="Curriculo.pdf"
-            >
-                Baixar Currículo
-            </a>
+        <a className="downloadBtn" href="/Profile.pdf" download="Curriculo.pdf" >
+            <img src="https://www.svgrepo.com/show/324311/resume-business-cv-work-job-curriculum-2.svg" width="52" height="40" >
+        </a>
       </td>
     </tr>
   </tbody>
