@@ -53,7 +53,9 @@
    * Manipulação de DOM
    * async/await
    * Criação de APIs REST.
-  <br><br>
+  
+<img src="./line.gif" />
+<br><br>
 
   🔧 Git & GitHub - Udemy
   <br>
@@ -68,6 +70,7 @@
   <br><br>
 
 </p>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=70&fontColor=00ffff&fontAlign=50&fontAlignY=60&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -264,7 +267,9 @@
   * Link do repositório: https://github.com/RadavelliM/api-rest-college
   <br>
 
-  <br><br>
+    <br>
+  <img src="./line.gif" />
+  <br>
 
 <h1 align="center">⚛ Portfólio React</h1>
   Portfólio pessoal profissional desenvolvido com React + Vite. A aplicação usa tecnologias modernas como React Hooks, juntamente com React Router para tratamento de páginas inexistentes. O portfólio utiliza Styled-components + CSS modules para estilização e responsividade, além de animações e transições suaves com a biblioteca framer-motion. O projeto em React conta com a tecnologia WebGl, responsável por renderizar animações tridimensionais no navegador através da linguagem GLSL, escrita em C, sendo usada para criar uma Hero Section animada e interativa.
@@ -273,7 +278,9 @@
   * Link do repositório: https://github.com/RadavelliM/Portfolio-pessoal
   <br>
 
-  <br><br>
+  <br>
+  <img src="./line.gif" />
+  <br>
 
 <h1 align="center">🍃Gerenciamento de Clientes</h1>
   Projeto em Node.js e Express para gerenciamento de clientes, utilizando de arquitetura monolítica MVC e banco de dados não-relacional (NoSQL) MongoDB, em uma cluster (AWS). A aplicação usa a ODM Mongoose para integridade e abstração de dados, além de HelmetJS para prevenção de ataques CSRF. Deploy realizado no Google Cloud Platform (GCP) com containerização Docker, além de PM2 para gerenciamento de ambiente Node, e NGINX para proxy reversa.
@@ -281,7 +288,9 @@
   * Link do repositório: https://github.com/RadavelliM/gerenciamento-clientes
   <br>
 
-  <br><br>
+    <br>
+  <img src="./line.gif" />
+  <br>
 
 <h1 align="center">🐍 Projeto Restaurante Python</h1>
   Projeto em Python para gerenciamento de um restaurante, com arquitetura monolítica MVC, usando o framework web Flask, juntamente com banco de dados relacional SQL Server.
@@ -289,7 +298,9 @@
   * Link do repositório: https://github.com/RadavelliM/gerenciamento-restaurante
   <br>
 
-  <br><br>
+    <br>
+  <img src="./line.gif" />
+  <br>
 
 <h1 align="center">⚛ Universidade React</h1>
   Aplicação em ReactJS, consumindo a API RESTful desenvolvida, usando funcionalidades modernas do React, tais como Router e Hooks.
