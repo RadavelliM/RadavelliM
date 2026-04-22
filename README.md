@@ -12,7 +12,10 @@
 
 </h2>
 
-
+<br>
+<img src="./line.gif" />
+<br>
+<br>
 
 ###
 
@@ -38,6 +41,12 @@
 
 ###
 
+<br>
+<img src="./line.gif" />
+<br>
+<br>
+<br>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Cursos%20e%20Certifica%C3%A7%C3%B5es&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -55,7 +64,7 @@
    * Criação de APIs REST.
   
 <img src="./line.gif" />
-<br><br>
+<br>
 
   🔧 Git & GitHub - Udemy
   <br>
@@ -206,6 +215,11 @@
 
 ###
 
+<br>
+<img src="./line.gif" />
+<br>
+<br>
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&color=gradient"  />
 </div>
@@ -252,7 +266,11 @@
 
 ###
 
-<br><br>
+<br>
+<img src="./line.gif" />
+<br>
+<br>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20os%20reposit%C3%B3rios%20abaixo&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&stroke=-&animation=fadeIn&desc=E%20veja%20meus%20projetos:&descSize=30&descAlign=50&descAlignY=85&color=gradient"  />
