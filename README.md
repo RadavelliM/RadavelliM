@@ -267,8 +267,9 @@
   * Link do repositório: https://github.com/RadavelliM/api-rest-college
   <br>
 
-    <br>
+  <br>
   <img src="./line.gif" />
+  <br>
   <br>
 
 <h1 align="center">⚛ Portfólio React</h1>
@@ -281,6 +282,7 @@
   <br>
   <img src="./line.gif" />
   <br>
+  <br>
 
 <h1 align="center">🍃Gerenciamento de Clientes</h1>
   Projeto em Node.js e Express para gerenciamento de clientes, utilizando de arquitetura monolítica MVC e banco de dados não-relacional (NoSQL) MongoDB, em uma cluster (AWS). A aplicação usa a ODM Mongoose para integridade e abstração de dados, além de HelmetJS para prevenção de ataques CSRF. Deploy realizado no Google Cloud Platform (GCP) com containerização Docker, além de PM2 para gerenciamento de ambiente Node, e NGINX para proxy reversa.
@@ -288,8 +290,9 @@
   * Link do repositório: https://github.com/RadavelliM/gerenciamento-clientes
   <br>
 
-    <br>
+  <br>
   <img src="./line.gif" />
+  <br>
   <br>
 
 <h1 align="center">🐍 Projeto Restaurante Python</h1>
@@ -298,8 +301,9 @@
   * Link do repositório: https://github.com/RadavelliM/gerenciamento-restaurante
   <br>
 
-    <br>
+  <br>
   <img src="./line.gif" />
+  <br>
   <br>
 
 <h1 align="center">⚛ Universidade React</h1>
