@@ -1,6 +1,16 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=C300F7&background=7400FF&center=true&vCenter=true&width=435&lines=Bem+vindo(a)!)](https://git.io/typing-svg)
 
+</div>
+
+
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00F7F4&background=7400FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Desenvolvedor+Web;Engenharia+de+Software;React%2C+Node%2C+SQL%2C+Python)](https://git.io/typing-svg)
+
+</div>
 
 <h2 align="center">
 
