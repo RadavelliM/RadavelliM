@@ -1,8 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=C300F7&background=7400FF&center=true&vCenter=true&width=435&lines=Bem+vindo(a)!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00F7F4&background=7400FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Desenvolvedor+Web;Engenharia+de+Software;React%2C+Node%2C+SQL%2C+Python)](https://git.io/typing-svg)
+
 <h2 align="center">
-
-  Bem vindo (a)!
-
-  Desenvolvedor de Software FullStack
 
   Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.
 
@@ -41,11 +41,7 @@
 
 ###
 
-<br>
-<img src="./line.gif" />
-<br>
-<br>
-<br>
+
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Cursos%20e%20Certifica%C3%A7%C3%B5es&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
