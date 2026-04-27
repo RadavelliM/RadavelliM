@@ -1,7 +1,13 @@
 <div>
 
-<div>
+<div style="display: grid">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Henrique%20Radavelli&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
+
+  <div align="center" style="position: relative;">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00F7F4&background=7400FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Desenvolvedor+Web;Engenharia+de+Software;React%2C+Node%2C+SQL%2C+Python)](https://git.io/typing-svg)
+
+  </div>
 </div>
 
 
@@ -9,11 +15,7 @@
 
 
 
-<div align="center" style="position: relative; top: -12vh">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&color=00F7F4&background=7400FF00&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;Desenvolvedor+Web;Engenharia+de+Software;React%2C+Node%2C+SQL%2C+Python)](https://git.io/typing-svg)
-
-</div>
 
 
 
@@ -23,9 +25,13 @@
 
 </div>
 
-<h2 align="center">
+<h2 align="center" style="width: 80%; display: grid; place-self: center;">
 
-  Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.
+  Sou estudante de Engenharia de Software com foco em arquitetura de aplicações web escaláveis, APIs RESTful e boas práticas de programação. 
+  
+  Busco aplicar princípios como Clean Code e separação de responsabilidades na construção de sistemas eficientes e sustentáveis. 
+  
+  Atualmente, estou dedicando meu tempo ao desenvolvimento de projetos práticos e ao aprimoramento constante da minha stack técnica.
 
   <p align="center" style="position: relative; margin-top: 50px;">
     📍 Joinville, SC - Brasil
