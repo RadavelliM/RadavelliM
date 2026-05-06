@@ -1,7 +1,7 @@
 <div>
 
 <div style="display: grid">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&reversal=false&text=Henrique%20Radavelli&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&text=Henrique%20Radavelli&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
 
   <div align="center" style="position: relative;">
 
@@ -36,6 +36,8 @@
   <p align="center" style="position: relative; margin-top: 50px;">
     📍 Joinville, SC - Brasil
   </p>
+
+<br>
 
 <table align="center">
 
@@ -305,7 +307,8 @@
    * async/await
    * Criação de APIs REST.
   
-<img src="./line.gif" />
+<div style="background-color: white; width: 100%; height: 2px;"></div>
+
 <br>
 
   🔧 Git & GitHub - Udemy
@@ -316,7 +319,7 @@
   * Rebase
   * Commits. 
   <br>
-    Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
+    → Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
 
   <br><br>
 
@@ -370,8 +373,6 @@
 
 ###
 
-<br>
-<img src="./line.gif" />
 <br>
 <br>
 
