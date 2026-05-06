@@ -37,6 +37,26 @@
     📍 Joinville, SC - Brasil
   </p>
 
+<table align="center">
+
+  <thead>
+    <tr>
+      <th>Visualizar Currículo</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr align="center">
+      <td>
+        <a className="downloadBtn" href="/Curriculo.pdf" download="Curriculo.pdf" >
+            <img src="https://www.svgrepo.com/show/281704/curriculum-resume.svg" width="52" height="40" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
+
 </h2>
 
 <br>
@@ -45,71 +65,9 @@
 <br>
 
 ###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gradua%C3%A7%C3%A3o&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<p align="left">
-  🎓 Formação Acadêmica
-  <br><br>
-  Bacharelado em Engenharia de Software
-  <br>
-  📍 Univille
-  <br>
-  📅 Início: 2025
-  <br>
-  📅 Previsão de conclusão: 2029
-  <br>
-  🎯 Foco em arquitetura de software, estruturas de dados, banco de dados e desenvolvimento web.
-</p>
-
-###
-
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Cursos%20e%20Certifica%C3%A7%C3%B5es&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<p align="left">
-
-  📚 Cursos & Certificações Relevantes
-  <br><br>
-
-  ⚛ JavaScript, React & TypeScript Avançado — Udemy  
-   * Manipulação de DOM
-   * async/await
-   * Criação de APIs REST.
-  
-<img src="./line.gif" />
-<br>
-
-  🔧 Git & GitHub - Udemy
-  <br>
-  * Controle de versão
-  * Versionamento
-  * Branchs
-  * Rebase
-  * Commits. 
-  <br>
-    Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
-
-  <br><br>
-
-</p>
-
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Confira%20minha%20Stack:&fontSize=70&fontColor=00ffff&fontAlign=50&fontAlignY=60&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
-
-###
-
 
 <table align="center" border="1" style="width: 100%;">
 
@@ -236,63 +194,6 @@
 
 <br><br>
 
-###
-
-<br>
-<img src="./line.gif" />
-<br>
-<br>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&color=gradient"  />
-</div>
-
-###
-
-<table align="center">
-
-  <thead>
-    <tr>
-      <th>Linkedin</th>
-      <th>Portfólio</th>
-      <th>Gmail</th>
-      <th>Visualizar Currículo</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr align="center">
-      <td>
-        <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
-        </a>
-      </td>
-      <td>
-        <a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
-            <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" title="Portfólio Pessoal"  />
-        </a>
-      </td>
-      <td>
-        <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
-        </a>
-      </td>
-      <td>
-        <a className="downloadBtn" href="/Curriculo.pdf" download="Curriculo.pdf" >
-            <img src="https://www.svgrepo.com/show/281704/curriculum-resume.svg" width="52" height="40" >
-        </a>
-      </td>
-    </tr>
-  </tbody>
-  
-</table>
-
-###
-
-<br>
-<img src="./line.gif" />
-<br>
-<br>
 
 
 <div>
@@ -354,6 +255,125 @@
   <br>
 </div>
 
+
+
+
+###
+
+<br>
+<img src="./line.gif" />
+<br>
+<br>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Gradua%C3%A7%C3%A3o&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p align="left">
+  🎓 Formação Acadêmica
+  <br><br>
+  Bacharelado em Engenharia de Software
+  <br>
+  📍 Univille
+  <br>
+  📅 Início: 2025
+  <br>
+  📅 Previsão de conclusão: 2029
+  <br>
+  🎯 Foco em arquitetura de software, estruturas de dados, banco de dados e desenvolvimento web.
+</p>
+
+###
+
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Cursos%20e%20Certifica%C3%A7%C3%B5es&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<p align="left">
+
+  📚 Cursos & Certificações Relevantes
+  <br><br>
+
+  ⚛ JavaScript, React & TypeScript Avançado — Udemy  
+   * Manipulação de DOM
+   * async/await
+   * Criação de APIs REST.
+  
+<img src="./line.gif" />
+<br>
+
+  🔧 Git & GitHub - Udemy
+  <br>
+  * Controle de versão
+  * Versionamento
+  * Branchs
+  * Rebase
+  * Commits. 
+  <br>
+    Certificado: https://udemy-certificate.s3.amazonaws.com/image/UC-40bb2c83-ea7d-4302-b028-8aa38efbec26.jpg
+
+  <br><br>
+
+</p>
+
+
+###
+
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Meios%20de%20Contato&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&stroke=-&animation=fadeIn&desc=Clique%20nos%20%C3%ADcones%20abaixo%20para%20entrar%20em%20contato.&descSize=25&descAlign=50&descAlignY=90&color=gradient"  />
+</div>
+
+<table align="center">
+
+  <thead>
+    <tr>
+      <th>Linkedin</th>
+      <th>Portfólio</th>
+      <th>Gmail</th>
+      <th>Visualizar Currículo</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr align="center">
+      <td>
+        <a href="https://www.linkedin.com/in/henrique-radavelli-821a64367/" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" title="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://radavelli.dev.br/" target="_blank" rel="noopener noreferrer">
+            <img src="https://www.svgrepo.com/show/295998/browser-website.svg" width="52" height="40" title="Portfólio Pessoal"  />
+        </a>
+      </td>
+      <td>
+        <a href="henriqueradavellimachado@gmail.com" target="_blank" rel="noopener noreferrer">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="Email"  />
+        </a>
+      </td>
+      <td>
+        <a className="downloadBtn" href="/Curriculo.pdf" download="Curriculo.pdf" >
+            <img src="https://www.svgrepo.com/show/281704/curriculum-resume.svg" width="52" height="40" >
+        </a>
+      </td>
+    </tr>
+  </tbody>
+  
+</table>
+
+###
+
+<br>
+<img src="./line.gif" />
+<br>
+<br>
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=twinkling&descSize=26&descAlign=50&descAlignY=85&textBg=false&color=gradient"  />
