@@ -278,7 +278,7 @@
         </a>
       </td>
       <td>
-        <a className="downloadBtn" href="/Profile.pdf" download="Curriculo.pdf" >
+        <a className="downloadBtn" href="/Curriculo.pdf" download="Curriculo.pdf" >
             <img src="https://www.svgrepo.com/show/281704/curriculum-resume.svg" width="52" height="40" >
         </a>
       </td>
