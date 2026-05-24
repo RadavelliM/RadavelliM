@@ -1,7 +1,7 @@
 <div>
 
 <div style="display: grid">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&section=header&reversal=false&text=Henrique%20Radavelli&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=225&section=header&reversal=false&text=Henrique%20Radavelli&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=25&stroke=-&animation=fadeIn&descSize=25&descAlign=50&descAlignY=60&textBg=false&theme=cobalt"  />
 
   <div align="center" style="position: relative;">
 
@@ -279,6 +279,9 @@
   Bacharelado em Engenharia de Software
   <br>
   📍 Univille
+  <br>
+  <br>
+  📚 3° semestre
   <br>
   📅 Início: 2025
   <br>
