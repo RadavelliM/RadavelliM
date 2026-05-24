@@ -278,8 +278,8 @@
   <br><br>
   Bacharelado em Engenharia de Software
   <br>
-  📍 Univille
   <br>
+  📍 Univille
   <br>
   📚 3° semestre
   <br>
