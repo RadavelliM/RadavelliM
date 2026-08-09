@@ -74,7 +74,7 @@
 <table align="center" border="1" style="width: 100%;">
 
 <tr>
-  <td align="center" colspan="6">
+  <td align="center" colspan="7">
       <h3>Frontend</h3>
   </td>
 </tr>
