@@ -87,6 +87,11 @@
 </td>
 
 <td align="center">
+        <img src="https://camo.githubusercontent.com/b82ba4759c3c8d435b1b8f77eb7c8e22001d7e6a573500579e26da729eaa9443/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f32353070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="50"/>
+        <p>JavaScript</p>
+</td>
+
+<td align="center">
         <img src="https://camo.githubusercontent.com/5c3873b6812ecfb1d2bc6ece8c2c548d53d151c2edbf6b0281207672ca3ab0a8/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f74732d69636f6e2e737667" width="50"/>
         <p>TypeScript</p>
 </td>
@@ -142,6 +147,11 @@
   </td>
 
   <td align="center">
+          <img src="https://camo.githubusercontent.com/5b4b25166b2912d10e129f1a02977921e256ae5bedefb91e9a12d025fd2b6b7b/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6a6176612d6f726967696e616c2d776f72646d61726b2e737667" style="width: 50px;">
+          <p>Java</p>
+  </td>
+
+  <td align="center">
           <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="50"/>
           <p>Python</p>
   </td>
@@ -180,6 +190,11 @@
         <img src="https://img.icons8.com/color/512/google-cloud.png" width="70"/>
         <p>GCP</p>
   </td>
+  
+  <td align="center">
+        <img src="https://user-images.githubusercontent.com/52828703/213916109-4c7913f6-8d9c-4086-95e0-190912e9301a.svg" width="50"/>
+        <p>Netlify</p>
+  </td>
 
   <td align="center">
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="50"/>
@@ -190,6 +205,7 @@
         <img src="https://camo.githubusercontent.com/16b52621932a556fbac9ae4101250a283e6cddf0b2b7ed1a218a2d4d95cd356b/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" width="50"/>
         <p>GitHub</p>
   </td>
+
 </tr>
 
 </table>
