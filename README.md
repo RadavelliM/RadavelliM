@@ -119,7 +119,7 @@
 </tr>
 
 <tr>
-  <td align="center" colspan="6">
+  <td align="center" colspan="7">
       <h3>Backend</h3>
   </td>
 </tr>
@@ -164,7 +164,7 @@
 </tr>
 
 <tr>
-  <td align="center" colspan="6">
+  <td align="center" colspan="7">
       <h3>Databases & Deploy</h3>
   </td>
 </tr>
