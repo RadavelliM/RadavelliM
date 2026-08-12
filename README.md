@@ -236,7 +236,6 @@
   Portfólio pessoal profissional desenvolvido com React + Vite. A aplicação usa tecnologias modernas como React Hooks, juntamente com React Router para tratamento de páginas inexistentes. O portfólio utiliza Styled-components + CSS modules para estilização e responsividade, além de animações e transições suaves com a biblioteca framer-motion. O projeto em React conta com a tecnologia WebGl, responsável por renderizar animações tridimensionais no navegador através da linguagem GLSL, escrita em C, sendo usada para criar uma Hero Section animada e interativa.
 
   * Link do website: https://radavelli.dev.br
-  * Link do repositório: https://github.com/RadavelliM/Portfolio-pessoal
   <br>
 
   <br>
